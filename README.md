@@ -90,4 +90,3 @@ The 28-27 transformer outage has no power-flow solution at all, and none of the 
 
 1. R. D. Zimmerman, C. E. Murillo-Sánchez and R. J. Thomas, "MATPOWER: Steady-State Operations, Planning and Analysis Tools for Power Systems Research and Education," *IEEE Trans. Power Systems*, vol. 26, no. 1, 2011.
 2. IEEE 30-bus test system data, American Electric Power, December 1961.
-3. P. Kundur, *Power System Stability and Control*, McGraw-Hill, 1994, Ch. 14.
