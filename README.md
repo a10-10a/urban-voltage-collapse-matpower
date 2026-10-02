@@ -44,7 +44,7 @@ Everything is written to a new `results/` folder: CSV tables, PNG figures and a 
 | `run_pf_safe.m`, `case_metrics.m`, `check_islanding.m` | Power flow wrapper, metrics and connectivity check |
 | `scale_load.m`, `apply_demand_response.m`, `add_statcom.m`, `find_branch_by_pair.m` | Case-modification helpers |
 | `BUGFIX_LOG.md` | Defects found in the first version, with numerical evidence |
-| `RESULTS_REFERENCE.md` | Expected values for checking your own run |
+
 
 ## Key modelling decisions
 
